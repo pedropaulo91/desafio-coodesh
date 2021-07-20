@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/pedropaulo91/desafio-coodesh)
 # DotNet Challenge 20200902
 
 ## Projetos
